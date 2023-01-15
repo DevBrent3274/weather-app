@@ -41,6 +41,6 @@ The following image shows the web application's appearance and functionality:
 
 ## Deployed
 
-[Click here for deployed weather app](https://github.com/DevBrent3274/weather-app)
+[Click here for deployed weather app](https://devbrent3274.github.io/weather-app/)
 - - -
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
