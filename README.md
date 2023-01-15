@@ -4,7 +4,7 @@
 
 The following is a weather dashboard application that allows a user to enter and search a city for todays weather and the 5 day forcast.
 
-## Technolgies Used
+## Technologies Used
 
 Html, javascript css, bootstrap, and use of 3rd party api from open weather map.
 
@@ -37,10 +37,10 @@ THEN I am again presented with current and future conditions for that city
 
 The following image shows the web application's appearance and functionality:
 
-![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions.](./assets/screen-shot.png)
+![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions.](./assets/screen-shot.png/)
 
 ## Deployed
 
-[Click here for deployed JavaScript Quiz](https://github.com/DevBrent3274/weatherapp)
+[Click here for deployed weather app](https://github.com/DevBrent3274/weather-app)
 - - -
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.

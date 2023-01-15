@@ -1,0 +1,65 @@
+:root {
+  --light: #f6f6f6;
+  --purple: #2f1862;
+  --blue: #4755c4;
+  --lightblue: #3343be;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  background-color: grey;
+  border-radius: 5px;
+}
+/* Apply custom Google font */
+body{
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 400;
+}
+
+h1,
+h3 {
+  font-weight: 700;
+}
+
+.header {
+  background-color: var(--purple);
+  color: var(--light);
+}
+
+
+
+.btn{
+  width: 100% !important;
+}
+
+
+.forecast-card{
+  
+  background-color: darkblue;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+  
+}
+
+#search-history li{
+  list-style-type: none;
+  background-color: lightgray;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  text-align: center;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#five-day-forecast{
+  display: none;
+}
